@@ -1,0 +1,9 @@
+C:\Users\Jakub\source\repos\MongoDBConnector\bin\Debug\netcoreapp3.1\MongoDBConnector.deps.json
+C:\Users\Jakub\source\repos\MongoDBConnector\bin\Debug\netcoreapp3.1\MongoDBConnector.dll
+C:\Users\Jakub\source\repos\MongoDBConnector\obj\Debug\netcoreapp3.1\MongoDBConnector.csprojAssemblyReference.cache
+C:\Users\Jakub\source\repos\MongoDBConnector\obj\Debug\netcoreapp3.1\MongoDBConnector.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\MongoDBConnector\obj\Debug\netcoreapp3.1\MongoDBConnector.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\MongoDBConnector\bin\Debug\netcoreapp3.1\MongoDBConnector.pdb
+C:\Users\Jakub\source\repos\MongoDBConnector\obj\Debug\netcoreapp3.1\MongoDBConnector.dll
+C:\Users\Jakub\source\repos\MongoDBConnector\obj\Debug\netcoreapp3.1\MongoDBConnector.pdb
+C:\Users\Jakub\source\repos\MongoDBConnector\obj\Debug\netcoreapp3.1\MongoDBConnector.csproj.CoreCompileInputs.cache
